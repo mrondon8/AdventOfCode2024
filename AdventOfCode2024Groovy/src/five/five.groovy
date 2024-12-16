@@ -1,4 +1,4 @@
-package four
+package five
 
 def solve() {
     def a = new File("input.txt").collect()
